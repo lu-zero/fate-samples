@@ -1,0 +1,23 @@
+DecoderCheck Package (the "Package") License Agreement
+
+This Package is the property of Coding Technologies AB, Döbelnsgatan 64,
+11352 Stockholm, Sweden (the "Owner"). The Owner grants you (the "User")
+a nonexclusive, non-transferable license to copy and use the bitstreams
+and the associated documentation contained in the Package in accordance
+with the terms and conditions of this Agreement.
+
+The User shall always copy the Package in its entirety (including all
+bitstreams, the documentation and this Agreement) without any additions,
+deletions or modifications whatsoever. The User shall not distribute or
+use the Pacakge (or any part thereof) for any commercial purpose whatsoever,
+nor charge any fee for the medium on which the User stores or transfers
+the software, without the prior written permission of the Owner.
+
+The Owner provides the Package "as is" and "with all faults" without any
+express or implied warranties whatsoever. Because of the diversity of
+hardware and software configurations under which the Package may be used,
+no warranty of merchantability, performance or fitness for a particular
+purpose is offered. The User shall test the software thoroughly before
+relying on it. The User assumes the entire risk of using the software. 
+THE OWNER SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, BUT
+NOT LIMITED TO, LOSS OF DATA) RESULTING FROM USE OF THE PACKAGE.
